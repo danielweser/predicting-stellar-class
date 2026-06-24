@@ -1,0 +1,18 @@
+# Data Processing & Matrices
+pandas
+numpy
+fastparquet
+
+# Machine Learning & Scaling
+scikit-learn
+joblib
+
+# Optimization
+scipy
+
+# Model Frameworks
+xgboost>=2.0.0
+torch
+
+# API & Downloads
+kagglehub
